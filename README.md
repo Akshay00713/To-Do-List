@@ -1,4 +1,4 @@
-<h1>Projects from Vanilla JavaScript</h1>
+<h1>Project from Vanilla JavaScript</h1>
 <ul>
   <li>
     <h4>ToDo List : <a href="https://majestic-alfajores-f6a43b.netlify.app/" target="_blank">Live URL</a></h4>
